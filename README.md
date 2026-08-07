@@ -1,10 +1,10 @@
 # Mechanical Designing Projects
 
-A collection of mechanical CAD designs modeled in Onshape, based on standard SOLIDWORKS CSWA-level practice problems covering sketch and extrusion fundamentals. Each project includes an STL file for instant 3D preview and a link to the live, editable Onshape model....
+A collection of mechanical CAD designs modeled in Onshape,covering sketch and extrusion fundamentals. Each project includes an STL file for instant 3D preview and a link to the live, editable Onshape model....
 
 ---
 
-## 📁 Projects
+##  Projects
 
 ### 1. Staircase Bracket
 A stepped rectangular bracket with a multi-level profile and a single through-hole, based on a symmetric sketch and extrude workflow. Demonstrates basic multi-step extrusion and hole placement fundamentals.
@@ -87,6 +87,6 @@ A single-ended open-jaw spanner (wrench) with a hexagonal box-end socket, modele
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - **CAD Software:** [Onshape](https://www.onshape.com/)
 
