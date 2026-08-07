@@ -18,6 +18,10 @@ A stepped rectangular bracket with a multi-level profile and a single through-ho
 - **File:** [`staircase-bracket.stl`](https://github.com/aetherx0/Mechanical-Designing-Projects/blob/b4edba479eacb9a5642a35cca89b5d5cbb38450d/Staircase%20Bracket.stl)
 - **View live model:** [Onshape Link](https://cad.onshape.com/documents/6b3c931916fd5d4e06bc7221/w/61c7fbf0113ad7e4861ff30b/e/bf08b18cc3014993705bc36b)
 
+  <img width="1459" height="1417" alt="image" src="https://github.com/user-attachments/assets/e37df5dd-ae51-4916-8378-1caba6a82a65" />
+
+  
+
 ### 2. L Bracket Rib
 An L-shaped stepped mounting bracket reinforced with a 65° angled support rib, featuring two identical cylindrical mounting bosses on the raised top face. The rib reduces bending deflection under load while minimizing material — a common pattern in motor mounts and structural supports needing a stepped height offset.
 
@@ -30,6 +34,9 @@ An L-shaped stepped mounting bracket reinforced with a 65° angled support rib, 
 - **Design intent:** Asymmetric part, fully-defined sketches
 - **File:** [`l-bracket-rib.stl`](https://github.com/aetherx0/Mechanical-Designing-Projects/blob/b4edba479eacb9a5642a35cca89b5d5cbb38450d/L%20bracket%20rib.stl)
 - **View live model:** [Onshape Link](https://cad.onshape.com/documents/45948e08f832ffe074a589f3/w/99a461564a9feb6767045a7e/e/71ed63ada6c34ee051c9f330)
+  
+  <img width="1942" height="1372" alt="Screenshot 2026-08-07 193450" src="https://github.com/user-attachments/assets/d1db3f5b-6927-442d-80d1-e3bf257cef10" />
+
 
 ### 3. Crank Arm
 A crank arm designed to convert rotational motion into linear/reciprocating motion via a large pivot boss and a smaller offset pin hole, connected by a rounded arm. Common in mechanical linkage systems such as crank-slider mechanisms and pedal-driven assemblies.
@@ -44,6 +51,9 @@ A crank arm designed to convert rotational motion into linear/reciprocating moti
 - **File:** [`crank-arm.stl`](https://github.com/aetherx0/Mechanical-Designing-Projects/blob/b4edba479eacb9a5642a35cca89b5d5cbb38450d/Crank%20Arm.stl)
 - **View live model:** [Onshape Link](https://cad.onshape.com/documents/b1069c93f3755eb962d7d23e/w/7175e0306cc66d6c0a29233c/e/7f24083b6407f40eb358d51d)
 
+  <img width="1345" height="1307" alt="image" src="https://github.com/user-attachments/assets/053dddde-e037-4f62-a433-6f49ccfcee86" />
+
+
 ### 4. Mounting Flange
 An oval mounting flange plate with two clearance holes for bolted fastening and a central hexagonal blind hole for a keyed shaft or fastener. Typically used in compact bracket-to-surface mounting applications.
 
@@ -57,6 +67,9 @@ An oval mounting flange plate with two clearance holes for bolted fastening and 
 - **File:** [`mounting-flange.stl`](https://github.com/aetherx0/Mechanical-Designing-Projects/blob/b4edba479eacb9a5642a35cca89b5d5cbb38450d/Mounting%20Flange.stl)
 - **View live model:** [Onshape Link](https://cad.onshape.com/documents/40b427b80b7a55572222ba2f/w/aaeb8713410b4ea522ea9973/e/d2e4dd539c5e0940a38dcd7d)
 
+  <img width="1690" height="979" alt="image" src="https://github.com/user-attachments/assets/336f0978-d1bd-4381-be1c-b6a0f59c89f1" />
+
+
 ### 5. Spanner Component
 A single-ended open-jaw spanner (wrench) with a hexagonal box-end socket, modeled after standard hand-tool geometry. Jaw and socket are sized to standard fastener dimensions, with handle length proportioned for adequate leverage.
 
@@ -69,6 +82,8 @@ A single-ended open-jaw spanner (wrench) with a hexagonal box-end socket, modele
 - **Design intent:** Symmetric part, fully-defined sketches
 - **File:** [`spanner-component.stl`](https://github.com/aetherx0/Mechanical-Designing-Projects/blob/b4edba479eacb9a5642a35cca89b5d5cbb38450d/Spanner%20Component.stl)
 - **View live model:** [Onshape Link](https://cad.onshape.com/documents/7b428d2c8fddf8e9d0ec4dbb/w/76a76de5ce0955f3054f04c7/e/0446b6225c15cdc48825ce7a)
+
+<img width="2018" height="1347" alt="image" src="https://github.com/user-attachments/assets/b39f37f6-bd17-4919-8e46-9e5708ac9983" />
 
 ---
 
